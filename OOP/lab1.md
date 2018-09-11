@@ -14,5 +14,5 @@
 - In main program you should be able to create 3 universities with some students in it and calculate the average media between them and print the result in console.
 
 Sources (Java):
-- Data types (https://github.com/popadorin/laboratories/blob/master/OOP/lab1.md)
+- Basic syntax (https://www.tutorialspoint.com/java/java_basic_syntax.htm)
 
