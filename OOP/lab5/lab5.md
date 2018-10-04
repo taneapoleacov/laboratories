@@ -23,3 +23,23 @@ Add a object of X to A class as a state and modify the constructor of A from `A(
 Checkout for errors if appeared in child classes and try to resolve the issue.
 
 `hint: use super("blabla", x) in Java, base("blabla", x) in C# and SuperClassName("blabla", x) in C++, where x is a instance of type X`.
+
+Finally print J and see what happens states does it have.
+
+##### Task3 
+
+1. Add initial value to state X from class A. (ex: `protected X x = new X("xxx")`).
+
+Print a object of J and see the result.
+
+2. Go in class D and create also a state with the same name `x` as in class A and give another initial value.
+
+Print the result and checkout if any changes.
+
+3. Now do the same in class H and add to a state x another initial value.
+
+Chackout again if any changes when printing object of class J.
+
+4. Make the property `x` from class `H` private and checkout now if any errors appeared and try to solve them.
+
+`hint: property x is not visible any more in child classes cause of private modifier in most near by hierarchy class containing this state.`
