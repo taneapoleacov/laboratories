@@ -22,4 +22,4 @@ Add a object of X to A class as a state and modify the constructor of A from `A(
 
 Checkout for errors if appeared in child classes and try to resolve the issue.
 
-`hint: use super("blabla", x) in Java/C#, where x is a instance of type X`.
+`hint: use super("blabla", x) in Java, base("blabla", x) in C# and SuperClassName("blabla", x) in C++, where x is a instance of type X`.
