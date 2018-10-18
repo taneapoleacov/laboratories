@@ -18,3 +18,6 @@ Show the number of letters from the text.
 
 Show the words that appear mostly in this text (Top 5).
 
+##### Bonus
+
+Show the number of vowels and number of consonants from the text.
